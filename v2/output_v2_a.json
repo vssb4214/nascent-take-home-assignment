@@ -1,0 +1,23 @@
+{
+  "summary": "Q2 launch timeline discussed, but no concrete decisions made. Design might slip by a week, and landing page ownership is unclear. Vendor follow-up and budget approval are still unowned.",
+  "action_items": [
+    {
+      "task": "Check with finance on budget approval",
+      "owner": "Alex",
+      "confidence": "high",
+      "needs_clarification": false,
+      "evidence": "Alex will check with finance on budget approval"
+    },
+    {
+      "task": "Follow up with the vendor about pricing",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "Someone needs to follow up with the vendor about pricing"
+    }
+  ],
+  "open_questions": [
+    "Who is responsible for updating the landing page?",
+    "Does design actually need to slip by a week?"
+  ]
+}

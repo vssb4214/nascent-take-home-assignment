@@ -1,0 +1,37 @@
+{
+  "summary": "Q2 launch timeline discussed, but no concrete decisions made. Design might slip by a week. Vendor and landing page follow-ups are still unowned.",
+  "action_items": [
+    {
+      "task": "Check with finance on budget approval",
+      "owner": "Alex",
+      "confidence": "high",
+      "needs_clarification": false,
+      "evidence": "Alex will check with finance on budget approval"
+    },
+    {
+      "task": "Follow up with the vendor about pricing",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "Someone needs to follow up with the vendor about pricing"
+    },
+    {
+      "task": "Is owning the landing page",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "[Inferred from open question: \"Who is owning the landing page?\"]"
+    },
+    {
+      "task": "Design actually need to slip by a week",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "[Inferred from open question: \"Does design actually need to slip by a week?\"]"
+    }
+  ],
+  "open_questions": [
+    "Who is owning the landing page?",
+    "Does design actually need to slip by a week?"
+  ]
+}

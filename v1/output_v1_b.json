@@ -1,0 +1,23 @@
+{
+  "summary": "Discussed Q2 launch timing, design delays, vendor pricing, budget, and landing page responsibilities.",
+  "action_items": [
+    {
+      "task": "Check with finance on budget",
+      "owner": "alex",
+      "confidence": "high",
+      "needs_clarification": false,
+      "evidence": "alex said he's got the budget thing, he's gonna check with finance."
+    },
+    {
+      "task": "Follow up on vendor pricing",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "someone said they'd follow up but i honestly don't remember who"
+    }
+  ],
+  "open_questions": [
+    "Design delay status (estimated week behind)",
+    "Landing page responsibilities and ownership"
+  ]
+}

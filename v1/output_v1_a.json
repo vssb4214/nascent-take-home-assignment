@@ -1,0 +1,22 @@
+{
+  "summary": "Discussed Q2 launch timeline, potential design delay, and outstanding tasks.",
+  "action_items": [
+    {
+      "task": "Follow up with vendor about pricing",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "Someone needs to follow up with the vendor about pricing"
+    },
+    {
+      "task": "Check with finance on budget approval for Q2 launch",
+      "owner": "Alex",
+      "confidence": "high",
+      "needs_clarification": false,
+      "evidence": "Alex will check with finance on budget approval"
+    }
+  ],
+  "open_questions": [
+    "Who is owning the landing page?"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "summary": "Q2 launch timing is uncertain due to design delays. Pricing for vendors remains open. The landing page and budget issues are still unowned.",
+  "action_items": [
+    {
+      "task": "Check with finance on the budget",
+      "owner": "Alex",
+      "confidence": "high",
+      "needs_clarification": false,
+      "evidence": "alex said he's got the budget thing, he's gonna check with finance"
+    },
+    {
+      "task": "Follow up on vendor pricing",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "someone said they'd follow up but i honestly don't remember who"
+    },
+    {
+      "task": "Is responsible for handling the landing page",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "[Inferred from open question: \"Who is responsible for handling the landing page?\"]"
+    },
+    {
+      "task": "Design definitely slipping by a week",
+      "owner": null,
+      "confidence": "low",
+      "needs_clarification": true,
+      "evidence": "[Inferred from open question: \"Is design definitely slipping by a week?\"]"
+    }
+  ],
+  "open_questions": [
+    "Who is responsible for handling the landing page?",
+    "Is design definitely slipping by a week?"
+  ]
+}
