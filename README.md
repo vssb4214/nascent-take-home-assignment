@@ -21,6 +21,12 @@ cd v3 && python extract_v3.py
 
 Outputs are saved as JSON files in each version's folder.
 
+## Walkthrough video
+
+A quick project walkthrough is included here:
+
+- [Watch the walkthrough (`walkthrough-demo.mp4`)](walkthrough-demo.mp4)
+
 ## What's here
 
 ```
